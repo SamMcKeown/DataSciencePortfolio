@@ -1,5 +1,5 @@
 ## DataSciencePortfolio
-A personal collection of selected data science projects of what I find interesting.
+A personal collection of data science projects.
 
 ## Contents
 - **LondonDogTheft**: 
