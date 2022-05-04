@@ -1,5 +1,5 @@
 # DataSciencePortfolio
-A collection of selected data science projects on topics I find interesting to demonstrate skill sets & knowledge
+A collection of selected data science projects on topics I find interesting, & which demonstrate skill sets & knowledge
 
 ## Contents
 - **LondonDogTheft**: 
